@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tarea_semana_3</string>
+    <string name="petgram">Petgram</string>
+    <string name="about">Acerca de</string>
+    <string name="contact">Contacto</string>
+    <string name="transitionName_picture">pictureTransition</string>
+    <string name="name_pet">Nombre</string>
+    <string name="num_rating">5</string>
+</resources>

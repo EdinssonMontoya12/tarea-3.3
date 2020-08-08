@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tittle_appbar_petgram">30sp</dimen>
+    <dimen name="vertical_appbar">55dp</dimen>
+    <dimen name="marginleft_text_appbar">90dp</dimen>
+    <dimen name="marginleft_image_star_appbar">85dp</dimen>
+    <dimen name="marginleft_pawog_appbar">20dp</dimen>
+    <dimen name="cardview_vertical_dimen">400dp</dimen>
+    <dimen name="padding_info_cardview">60dp</dimen>
+    <dimen name="dimen_linearLayout_cardview">60dp</dimen>
+    <dimen name="marginleft_bettew_item">5dp</dimen>
+    <dimen name="textsize_namepet_cardview">20sp</dimen>
+    <dimen name="marginleft_bettew_bone_and_text">10dp</dimen>
+    <dimen name="textsize_numRaiting_cardview">30sp</dimen>
+    <dimen name="dimen_bones_cardview">40dp</dimen>
+    <dimen name="marginleft_numRaiting">85dp</dimen>
+    <dimen name="padding_recyclerview">20dp</dimen>
+    <dimen name="margin_floating_acctionButton">20dp</dimen>
+</resources>
